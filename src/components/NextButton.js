@@ -17,6 +17,6 @@ export const NextButton = ({setAnswered}) => {
     }
 
     return ( 
-    <button className="button" onClick={handleClick}>Next!</button>
+    <button className='button' onClick={handleClick}>Next!</button>
     )
 }
